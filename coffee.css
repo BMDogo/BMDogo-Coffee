@@ -449,6 +449,7 @@ footer{
 @media(max-width: 768px){
     .contact-form{
         margin: 15px auto !important;
+        width: 80%;
     }
     .contact-info{
         display: grid;
@@ -461,4 +462,5 @@ footer{
      justify-content: center;
      align-items: center;
     }
+
 }
