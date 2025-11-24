@@ -106,8 +106,7 @@
     background: var(--background);
     text-align: center;
     padding: 15px 10px;
-    
-    margin-buttom: 20px;
+    margin-bottom: 10px;
 }
 .about header{
     color: var(--text-color);
@@ -176,6 +175,7 @@
 .menu-description h2{
     text-decoration: underline;
     color: var(--background);
+    margin-bottom: 10px;
 }
 .menu-item{
  text-align: center;  
@@ -184,6 +184,7 @@
 .menu-item h2{
     text-decoration: underline;
     color: var(--background);
+    margin-bottom: 10px;
 }
 .menulist{
     display: grid;
@@ -466,6 +467,7 @@ footer{
     }
 
 }
+
 
 
 
