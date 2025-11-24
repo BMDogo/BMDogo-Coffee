@@ -106,6 +106,7 @@
     background: var(--background);
     text-align: center;
     padding: 15px 10px;
+    
     margin-buttom: 20px;
 }
 .about header{
@@ -141,8 +142,7 @@
     left: 50%;
     transform: translate(-50%);
     text-align: center;
-    
-    
+    white-space: nowrap;
 }
 .about-story{
     color: var(--text-color);
@@ -153,7 +153,7 @@
     .about-content{
         display: grid;
         grid-template-columns: 1fr;
-        height: 450px;
+        height: 500px;
     }
     .about-image{
         height: 200px;
@@ -466,4 +466,5 @@ footer{
     }
 
 }
+
 
