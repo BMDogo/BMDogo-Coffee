@@ -105,7 +105,8 @@
 .about{
     background: var(--background);
     text-align: center;
-    padding: 15px 0;
+    padding: 15px 10px;
+    margin-buttom: 20px;
 }
 .about header{
     color: var(--text-color);
@@ -140,7 +141,8 @@
     left: 50%;
     transform: translate(-50%);
     text-align: center;
-    white-space: nowrap;
+    
+    
 }
 .about-story{
     color: var(--text-color);
@@ -464,3 +466,4 @@ footer{
     }
 
 }
+
